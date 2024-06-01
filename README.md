@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi There 👋, I'm RAYHAN UDDIN
 #### React.js Developer | Python Enthusiast | Lifelong Learner
-![React.js Developer | Python Enthusiast | Lifelong Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![React.js Developer | Python Enthusiast | Lifelong Learner](https://github.com/RayhanTech9/RayhanTech9/blob/main/banne-img.png)
 
 I am a dedicated computer science enthusiast with a strong foundation in technical skills, recently graduating with a Diploma in Computer Science. Committed to continuous learning, I am passionate about exploring the ever-evolving world of technology and its applications. In addition to my technical expertise, I excel in communication and teamwork, effectively explaining complex concepts to both technical and non-technical audiences and collaborating to achieve common goals.
 
