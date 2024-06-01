@@ -5,10 +5,25 @@
 
 <!--Banner End Here-->
 
+<!-- About me Section Starts here-->
 ### 👨‍🏫 &nbsp; About Me
 I am a dedicated computer science enthusiast with a strong foundation in technical skills, recently graduating with a Diploma in Computer Science. Committed to continuous learning, I am passionate about exploring the ever-evolving world of technology and its applications. In addition to my technical expertise, I excel in communication and teamwork, effectively explaining complex concepts to both technical and non-technical audiences and collaborating to achieve common goals.
 
 As a recent Computer Science graduate, I aspire to contribute to innovative projects and work with fellow professionals in the UAE. Let’s connect and explore the possibilities together!
+<!-- About me Section End Here -->
+ <h2>📫 How to reach me : </h2> <p></p>Feel free to reach out if you'd like to collaborate on a project or have any questions!</p>
+ 
+ ### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RayhanTec)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RayhanTech9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanu509@gmail.com)
+ 
+
+
+
+
 
 ## Skills & Experti
 
@@ -31,7 +46,7 @@ As a recent Computer Science graduate, I aspire to contribute to innovative proj
 - 🌱 I’m currently learning  Python and Django, combined with the power of Machine Learning 
 - 👯 I’m looking to collaborate on machine learning projects and open source contributions. 
 - 💬 Ask me about Python & Web Development 
-- 📫 How to reach me: Feel free to reach out if you'd like to collaborate on a project or have any questions! 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RayhanTech9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-uddinswe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RayhanTech9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/RayhanTech)  
