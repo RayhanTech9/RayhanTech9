@@ -7,9 +7,12 @@
 
 <!-- About me Section Starts here-->
 ### 👨‍🏫 &nbsp; About Me
+
+<p align="justify">
 I am a dedicated computer science enthusiast with a strong foundation in technical skills, recently graduating with a Diploma in Computer Science. Committed to continuous learning, I am passionate about exploring the ever-evolving world of technology and its applications. In addition to my technical expertise, I excel in communication and teamwork, effectively explaining complex concepts to both technical and non-technical audiences and collaborating to achieve common goals.
 
 As a recent Computer Science graduate, I aspire to contribute to innovative projects and work with fellow professionals in the UAE. Let’s connect and explore the possibilities together!
+</p>
 <!-- About me Section End Here -->
  <h2>📫 How to reach me : </h2> <p></p>Feel free to reach out if you'd like to collaborate on a project or have any questions!</p>
  
@@ -19,13 +22,14 @@ As a recent Computer Science graduate, I aspire to contribute to innovative proj
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RayhanTec)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RayhanTech9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanu509@gmail.com)
+
  
 
 
 
 
 
-## Skills & Experti
+## Skills & Expertice
 
 ###💻 Technologies & Tools
 
