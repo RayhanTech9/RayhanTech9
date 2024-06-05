@@ -73,6 +73,10 @@ As a recent Computer Science graduate, I aspire to contribute to innovative proj
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Rayhan Uddin @2024
+All rights reserved by [Rayhan Uddin][FacebookLink] @2024
 
 ---
+
+
+<!-- Link Here -->
+[FacebookLink]:https://www.facebook.com/RayhanTech9
